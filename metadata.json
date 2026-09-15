@@ -1,0 +1,6 @@
+{
+  "name": "AI Research & Knowledge Agent",
+  "description": "Autonomous Multimodal Research Assistant using Agentic RAG, Multi-Agent AI, Vector Database and Claude",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
